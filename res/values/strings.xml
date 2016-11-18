@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">routerecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">定位结果显示...</string>
+    <string name="testbutton">定位开始</string>
+
+</resources>
